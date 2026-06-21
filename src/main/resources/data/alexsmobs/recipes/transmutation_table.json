@@ -2,15 +2,12 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     " N ",
-    "S S",
+    "   ",
     "OOO"
   ],
   "key": {
     "N": {
       "item": "minecraft:nether_star"
-    },
-    "S": {
-      "item": "alexsmobs:farseer_arm"
     },
     "O": {
       "item": "minecraft:obsidian"
